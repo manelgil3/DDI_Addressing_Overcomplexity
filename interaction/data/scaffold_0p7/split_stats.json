@@ -1,0 +1,15 @@
+{
+  "n_pairs_input": 343036,
+  "n_unique_canonical_smiles": 1409,
+  "val_frac": 0.1,
+  "test_frac": 0.1,
+  "threshold": 0.7,
+  "seed": 1337,
+  "enforce_for_val": true,
+  "n_pairs_train": 244108,
+  "n_pairs_val": 3264,
+  "n_pairs_test": 1114,
+  "n_mols_train": 1192,
+  "n_mols_val": 141,
+  "n_mols_test": 76
+}

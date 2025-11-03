@@ -1,0 +1,2 @@
+=== Final Results Over 5 Runs ===
+Scaffold Test - Accuracy: 0.4838 ± 0.0070, AUROC: 0.6861 ± 0.0060, AUPR: 0.3685 ± 0.0044

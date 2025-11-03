@@ -1,0 +1,33 @@
+
+=== Unseen DDI ===
+ACC - SoTA vs MFPS: t=75.466, p=1.0593e-12 *
+ACC - SoTA vs GCN_T: t=141.645, p=6.9022e-15 *
+ACC - SoTA vs MoLF: t=73.266, p=1.3417e-12 *
+AUROC - SoTA vs MFPS: t=-inf, p=0.0000e+00 *
+AUROC - SoTA vs GCN_T: t=inf, p=0.0000e+00 *
+AUROC - SoTA vs MoLF: t=-inf, p=0.0000e+00 *
+AUPR - SoTA vs MFPS: t=-9.468, p=1.2745e-05 *
+AUPR - SoTA vs GCN_T: t=20.862, p=2.9229e-08 *
+AUPR - SoTA vs MoLF: t=-6.275, p=2.3903e-04 *
+
+=== Unseen 1 Drug ===
+ACC - SoTA vs MFPS: t=-1.796, p=1.1028e-01 
+ACC - SoTA vs GCN_T: t=-1.493, p=1.7383e-01 
+ACC - SoTA vs MoLF: t=3.308, p=1.0725e-02 *
+AUROC - SoTA vs MFPS: t=6.680, p=1.5592e-04 *
+AUROC - SoTA vs GCN_T: t=6.198, p=2.5990e-04 *
+AUROC - SoTA vs MoLF: t=8.124, p=3.9076e-05 *
+AUPR - SoTA vs MFPS: t=0.828, p=4.3171e-01 
+AUPR - SoTA vs GCN_T: t=8.062, p=4.1314e-05 *
+AUPR - SoTA vs MoLF: t=7.343, p=8.0481e-05 *
+
+=== Unseen 2 Drugs ===
+ACC - SoTA vs MFPS: t=-0.006, p=9.9498e-01 
+ACC - SoTA vs GCN_T: t=0.460, p=6.5747e-01 
+ACC - SoTA vs MoLF: t=2.729, p=2.5872e-02 *
+AUROC - SoTA vs MFPS: t=16.171, p=2.1487e-07 *
+AUROC - SoTA vs GCN_T: t=13.350, p=9.4757e-07 *
+AUROC - SoTA vs MoLF: t=17.576, p=1.1217e-07 *
+AUPR - SoTA vs MFPS: t=0.792, p=4.5114e-01 
+AUPR - SoTA vs GCN_T: t=0.241, p=8.1534e-01 
+AUPR - SoTA vs MoLF: t=3.863, p=4.7890e-03 *

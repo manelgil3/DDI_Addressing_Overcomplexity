@@ -1,0 +1,2 @@
+Pearson Correlation: 0.6928 ± 0.0115
+RMSE: 1.0162 ± 0.0148

@@ -1,0 +1,14 @@
+
+Ritonavir Common Motifs:
+C=O: 150 occurrences
+ccc: 95 occurrences
+cnc: 94 occurrences
+CNC: 74 occurrences
+CC(C)C: 69 occurrences
+
+Cobicistat Common Motifs:
+NC(N)=O: 214 occurrences
+cc(C)n: 146 occurrences
+CCC: 142 occurrences
+CCN: 129 occurrences
+cnc: 123 occurrences

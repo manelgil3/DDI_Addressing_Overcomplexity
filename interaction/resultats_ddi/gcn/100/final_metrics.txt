@@ -1,0 +1,4 @@
+=== Final Results Over 5 Runs ===
+Test Set 1 - Accuracy: 0.8893 ± 0.0003, AUROC: 0.9836 ± 0.0001, AUPR: 0.9615 ± 0.0004
+Validation Set 2 (One Drug) - Accuracy: 0.6775 ± 0.0018, AUROC: 0.8577 ± 0.0024, AUPR: 0.7135 ± 0.0045
+Validation Set 2 (Two Drugs) - Accuracy: 0.5103 ± 0.0061, AUROC: 0.7088 ± 0.0048, AUPR: 0.4991 ± 0.0055
