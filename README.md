@@ -261,3 +261,24 @@ Outputs:
 - **ImportError: `rdMolDraw2D`** — use pinned `rdkit=2023.09.5` from conda-forge (as in envs).
 - **DGL CUDA mismatch** — if you are on CUDA 11.8, change `pytorch-cuda=11.8` and `dgl-cu118==2.2.1`.
 - **Determinism** — we enable deterministic ops; disable for speed if you only need quick checks.
+
+## 8) Citation
+
+If you use this repository, the benchmark splits, or any of the evaluation code in your research, please cite our paper:
+
+```bibtex
+@misc{gilsorribes2025addressingmodelovercomplexitydrugdrug,
+      title={Addressing Model Overcomplexity in Drug-Drug Interaction Prediction With Molecular Fingerprints}, 
+      author={Manel Gil-Sorribes and Alexis Molina},
+      year={2025},
+      eprint={2503.23550},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.BM},
+      url={https://arxiv.org/abs/2503.23550}, 
+}
+```
+
+And feel free to reference the GitHub repository:
+```bibtex
+https://github.com/manelgil3/DDI_Addressing_Overcomplexity
+```
